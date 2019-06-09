@@ -23,6 +23,7 @@ namespace ConsoleApp1
 			punkt1.y = 2;
 
 			ChangePunkt(punkt1);
+
 			Console.ReadKey();
 		}
 		public static void ChangePunkt(Punkt p)
